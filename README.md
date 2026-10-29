@@ -5,7 +5,7 @@
 Ask Claude in plain language ("make an 8-week production plan from this Excel file", "what if week 6 loses 200 hours?", "which warehouses should we open?") and it builds the optimisation model, solves it with Gurobi, and explains the result: the plan, the cost, which constraints are binding, and what an extra hour of capacity is worth.
 
 Course project for **Gen AI for Engineers**, Yaşar University, October 2026.
-Team: Mert Karaca, _(add teammates)_
+Team: Mert Karaca, Rafet Kaan Alhan, Berke Sezer
 
 ---
 
