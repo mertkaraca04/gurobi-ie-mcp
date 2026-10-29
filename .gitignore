@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.venv/
+plan_output.xlsx
+!examples/plan_output.xlsx
+*.log
